@@ -1,6 +1,6 @@
 # TAL-Net: Joint Forecasting of Regional Electricity Demand and CO₂ Emissions
 
-This repository contains the code and notebooks for my MSc research project at London Metropolitan University.  
+This repository contains the code and notebooks for my research project at Genesis Lab, London Metropolitan University.  
 The project explores **deep learning-based approaches for joint forecasting of regional electricity demand and CO₂ emissions**, applying and comparing multiple architectures including the proposed **TAL-Net (Temporal Attention LSTM Network)**.  
 The study is based on regional U.S. datasets (California and Texas) and evaluates the models on standard forecasting metrics.
 
