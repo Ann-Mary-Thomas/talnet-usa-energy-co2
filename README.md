@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
-This repository contains the code and notebooks for my research project at Genesis Lab, London Metropolitan University. The project develops **TAL-Net (Temporal Attention LSTM Network)** — a novel deep learning architecture for joint forecasting of regional electricity demand and CO₂ emissions — and benchmarks it against established baselines using U.S. regional grid data.
+This repository contains the code and notebooks for my research project at Genesis Lab, London Metropolitan University. The project develops **TAL-Net (Temporal Attention LSTM Network)** - a novel deep learning architecture for joint forecasting of regional electricity demand and CO₂ emissions - and benchmarks it against established baselines using U.S. regional grid data.
 
 ---
 
